@@ -1,5 +1,5 @@
 # PL
-Algorytmy podstawowych protokołów kryptograficznych. 
+Repozytorium zawiera algorytmy podstawowych protokołów kryptograficznych. 
 
 # EN
-Algorithms of basic cryptographic protocols.
+The repository contains algorithms of basic cryptographic protocols.
